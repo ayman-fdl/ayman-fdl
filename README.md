@@ -9,6 +9,10 @@
 
 ###
 
+<h4 align="left">Techs:</h4>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -38,6 +42,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </div>
+
+###
+
+<h4 align="left">Social media:</h4>
 
 ###
 
