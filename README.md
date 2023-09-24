@@ -60,21 +60,16 @@
   <a href="https://www.instagram.com/fdl.aymane/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="64" height="44" alt="instagram logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="64" height="44" alt="discord logo"  />
   <a href="https://www.linkedin.com/in/aymane-fadili/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="44" alt="linkedin logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/aymane-fadili/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="64" height="44" alt="facebook logo"  />
+    </a>
 </div>
 
 ###
 
 <p align="left">Gmail: aymanefdl1@gmail.com</p>
-
-###
-
-<br clear="both">
-
-
 
 ###
