@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! 👋 My name is Aymane FADILI, and I'm a first-year student in the Master's program for Data Science, hailing from Morocco.</h2>
+<h2 align="left">Hi there! 👋 My name is Aymane FADILI, and I'm a Data Science student, hailing from Morocco.</h2>
 
 ###
 
